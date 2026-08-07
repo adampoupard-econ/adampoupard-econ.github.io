@@ -1,15 +1,31 @@
+# `sort_date` controls the shared Research/Media chronology on the home page.
+
 - title: "Le seul recyclage que vous aurez sera la guerre"
   outlet: Contretemps
   date: July 2026
+  sort_date: 2026-07-01
   format: Written contribution
+  image: /assets/img/media_preview/contretemps_recyclage_guerre.png
   description: Article co-authored with Luca Tausch on war ecology, recycling, and the material conditions of ecological transition.
   url: https://www.contretemps.eu/le-seul-recyclage-que-vous-aurez-sera-la-guerre/
   link_label: Read the article
 
+- title: "J’aimerais contribuer à nourrir le débat macroéconomique via la question agraire en France"
+  outlet: La Lettre d’EconomiX
+  date: November 2025
+  sort_date: 2025-11-03
+  format: Interview
+  image: /assets/img/media_preview/economix_interview.png
+  description: Interview on food social-protection systems in Brazil and France, agricultural policy, biodiversity transition risks, and the role of the agrarian question in macroeconomic debate.
+  url: https://economix.fr/uploads/source/lettre_ecox/interview/itw_lettre_34.pdf
+  link_label: Read the interview
+
 - title: "Non, la décroissance n’est pas un concept flou"
   outlet: Le Monde
   date: July 2025
+  sort_date: 2025-07-05
   format: Collective op-ed
+  image: /assets/img/media_preview/lemonde_decroissance.jpg
   description: Response by ten ecological economists to Jean Pisani-Ferry on the theoretical foundations and political scope of degrowth.
   url: https://www.lemonde.fr/idees/article/2025/07/05/non-la-decroissance-n-est-pas-un-concept-flou-dix-economistes-repondent-a-jean-pisani-ferry_6618660_3232.html
   link_label: Read the op-ed
@@ -17,7 +33,9 @@
 - title: Les moyens d’une alimentation saine pour tous
   outlet: Journées de l’Économie
   date: November 2025
+  sort_date: 2025-11-04
   format: Panel discussion
+  image: /assets/img/media_preview/jeco_alimentation.jpg
   description: Public discussion on universal access to healthy and sustainable food and on the role of food social security.
   url: https://www.journeeseconomie.org/intervenant/adam_poupard
   link_label: View the event
