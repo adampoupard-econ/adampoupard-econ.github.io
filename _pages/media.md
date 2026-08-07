@@ -26,7 +26,12 @@ Selected interviews, public talks, and written contributions.
 
     <p>{{ item.description }}</p>
 
-    <p><a href="{{ item.url }}" target="_blank" rel="noopener noreferrer">{{ item.link_label | default: "View the contribution" }}</a></p>
+    <p>
+      <a href="{{ item.url }}" target="_blank" rel="noopener noreferrer">{{ item.link_label | default: "View the contribution" }}</a>
+      {% if item.pdf_url %}
+        · <a href="{{ item.pdf_url | relative_url }}" target="_blank" rel="noopener noreferrer">{{ item.pdf_label | default: "Read the PDF" }}</a>
+      {% endif %}
+    </p>
 
     {% if item.youtube_id %}
       <div class="ratio ratio-16x9 my-4">
