@@ -1,0 +1,71 @@
+# Add a language-specific document by appending an item under `pdfs`, for example:
+#   - language: Português
+#     url: /assets/pdf/translations/paper-name-pt.pdf
+
+- title: Les systèmes nationaux de protection sociale alimentaire. Comparaison structurale France-Brésil
+  authors: Adam Poupard
+  year: 2026
+  venue: EconomiX Working Papers
+  reference: "2026-9"
+  image: /assets/img/publication_preview/molecules_snpsa.png
+  summary: A structural comparison of food social-protection systems in France and Brazil and of the political alliances that shaped them.
+  official_url: https://economix.fr/fr/documents-de-travail
+  pdfs:
+    - language: Français
+      url: https://economix.fr/pdf/dt/2026/WP_EcoX_2026-9.pdf
+
+- title: Who pays for a protected Earth? Unequal economic exposure in the race to GBF Target 3
+  authors: Adam Poupard and Gabriel Santos Carneiro
+  year: 2026
+  venue: Land Use Policy
+  reference: "168, 108096"
+  image: /assets/img/publication_preview/exposure_paper.svg
+  summary: An analysis of how the economic exposure associated with the 30×30 biodiversity target is distributed across countries and global value chains.
+  official_url: https://doi.org/10.1016/j.landusepol.2026.108096
+  pdfs:
+    - language: English
+      url: https://hal.science/hal-05624456v1/document
+
+- title: "From Climate to Nature Macro-Criticality: Exploring New Scenarios and Modeling Frameworks"
+  authors: Jeffrey Althouse, Bastien Bedossa, Etienne Espagne, Léna Faucher, Morgane Gonon, Katie Kedward, Angela Modica Scala, Adam Poupard, and Romain Svartzman
+  year: 2025
+  venue: CEPR Discussion Paper
+  reference: "DP19987"
+  summary: A review and extension of scenario and modeling approaches for identifying the macroeconomic and financial consequences of nature loss and nature-positive transitions.
+  official_url: https://cepr.org/index.php/publications/dp19987
+  pdfs: []
+
+- title: The economic and financial risks of implementing the ‘30x30’ Global Biodiversity Framework targets
+  authors: Katie Kedward and Adam Poupard
+  year: 2024
+  venue: UCL Institute for Innovation and Public Purpose Working Paper Series
+  reference: "2024/13"
+  image: /assets/img/publication_preview/30by30.png
+  summary: A conceptual and empirical assessment of the macrofinancial risks arising from conservation-related land-use constraints.
+  official_url: https://discovery.ucl.ac.uk/id/eprint/10200098/
+  pdfs:
+    - language: English
+      url: https://discovery.ucl.ac.uk/10200098/1/Kedward_wp_2024_13.pdf
+
+- title: Macroéconomie des transitions énergétiques — Explorations dans le cas français par la mise en œuvre d’un modèle réduit
+  authors: Frédéric Ghersi, Adam Poupard, and Julien Lefèvre
+  year: 2024
+  venue: CIRED Working Papers
+  reference: "hal-04384918"
+  image: /assets/img/publication_preview/publi_macro_transitions.png
+  summary: A compact model used to compare how alternative economic paradigms shape assessments of the macroeconomic effects of the energy transition in France.
+  official_url: https://hal.science/hal-04384918v1
+  pdfs:
+    - language: Français
+      url: https://hal.science/hal-04384918v1/document
+
+- title: Global Carbon Accounts 2022
+  authors: Marion Fetet, Sébastien Postic, and Adam Poupard
+  year: 2022
+  venue: Institute for Climate Economics (I4CE)
+  image: /assets/img/publication_preview/global_carbon_accounts.png
+  summary: A global overview of explicit carbon-pricing mechanisms, their coverage, price levels, and the use of the revenues they generate.
+  official_url: https://www.i4ce.org/en/publication/global-carbon-acounts-2022-climate/
+  pdfs:
+    - language: English
+      url: https://www.i4ce.org/wp-content/uploads/2022/09/220915-18h13-i4ce3632-ComptesMondiaux2022-VA-10p.pdf

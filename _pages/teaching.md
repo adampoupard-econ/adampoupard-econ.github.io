@@ -1,15 +1,29 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Course materials, schedules, and resources for classes taught.
+title: Teaching
+description: Courses and modules taught by Adam Poupard.
 nav: true
-nav_order: 6
-calendar: true
+nav_order: 5
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+{% for course in site.data.teaching %}
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+## {{ course.title }}
 
-{% include courses.liquid %}
+{% if course.institution %}
+**{{ course.institution }}** · {{ course.period }} · {{ course.role }}
+{% else %}
+**{{ course.student }}** · {{ course.period }} · {{ course.role }}
+{% endif %}
+
+{{ course.description }}
+
+{% if course.modules %}
+**Modules taught:** {{ course.modules | join: ", " }}
+{% endif %}
+
+{% if course.url %}[Course catalogue]({{ course.url }}){:target="_blank" rel="noopener noreferrer"}{% endif %}
+
+{% unless forloop.last %}---{% endunless %}
+{% endfor %}

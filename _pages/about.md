@@ -1,34 +1,30 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD candidate in ecological economics at <a href="https://economix.fr/fr/membre/poupard-adam">EconomiX</a> and <a href="https://cesco.mnhn.fr/">CESCO</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: adam-poupard.jpg
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Université Paris Nanterre</p>
+    <p>Muséum national d'Histoire naturelle</p>
+    <p>Paris, France</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD candidate in ecological economics and political economy at Université Paris Nanterre (EconomiX) and the Muséum national d'Histoire naturelle (CESCO). My research examines the macroeconomic, institutional, and social dimensions of biodiversity conservation and food-security policies, with a particular focus on food social protection in France and Brazil.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Trained as an engineer-economist and environmental scientist at École Polytechnique, Sciences Po, and Sorbonne Université, I previously worked on ecological transition issues at the World Bank, CIRED, and I4CE. My current work studies how agroecological and biodiversity transitions can be made economically viable, socially just, and democratically governed.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+You can find my publications under [Research]({% link _pages/research.md %}), my public-facing work under [Media]({% link _pages/media.md %}), and my teaching activities under [Teaching]({% link _pages/teaching.md %}).
