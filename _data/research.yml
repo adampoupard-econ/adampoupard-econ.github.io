@@ -13,6 +13,8 @@
   pdfs:
     - language: Français
       url: https://economix.fr/pdf/dt/2026/WP_EcoX_2026-9.pdf
+    - language: Português (Brasil)
+      url: /assets/pdf/DT_Adam_Poupard_V2_PT-BR.pdf
 
 - title: Who pays for a protected Earth? Unequal economic exposure in the race to GBF Target 3
   authors: Adam Poupard and Gabriel Santos Carneiro

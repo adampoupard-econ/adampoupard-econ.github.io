@@ -28,3 +28,5 @@ I am a PhD candidate in ecological economics and political economy at Universit�
 Trained as an engineer-economist and environmental scientist at École Polytechnique, Sciences Po, and Sorbonne Université, I previously worked on ecological transition issues at the World Bank, CIRED, and I4CE. My current work studies how agroecological and biodiversity transitions can be made economically viable, socially just, and democratically governed.
 
 You can find my publications under [Research]({% link _pages/research.md %}), my public-facing work under [Media]({% link _pages/media.md %}), and my teaching activities under [Teaching]({% link _pages/teaching.md %}).
+
+Member of [CIRCEE](https://circee-ecol-econ.github.io/).
