@@ -2,6 +2,8 @@
 layout: about
 title: Home
 permalink: /
+description: Adam Poupard is a PhD candidate in ecological economics researching biodiversity policy, food systems, political economy, and macroeconomics.
+og_image: /assets/img/adam-poupard.jpg
 subtitle: PhD candidate in ecological economics at <a href="https://economix.fr/fr/membre/poupard-adam">EconomiX</a> and <a href="https://cesco.mnhn.fr/">CESCO</a>
 
 profile:

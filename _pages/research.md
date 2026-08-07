@@ -2,7 +2,7 @@
 layout: page
 permalink: /research/
 title: Research
-description: Scientific publications and working papers by Adam Poupard.
+description: Research and publications by Adam Poupard on ecological economics, biodiversity, food systems, political economy, and macroeconomics.
 nav: true
 nav_order: 2
 images:
