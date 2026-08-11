@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://adampoupard-econ.github.io/sitemap.xml
+Sitemap: https://adampoupard-econ.github.io/sitemap-08-26.xml
