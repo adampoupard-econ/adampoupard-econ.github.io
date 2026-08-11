@@ -52,11 +52,11 @@ al-folio includes SEO basics, but you can optimize further.
 
 ### Sitemap and Robots
 
-al-folio auto-generates a `sitemap.xml` and `robots.txt` for you. These tell search engines what pages exist.
+al-folio auto-generates a `sitemap-08-26.xml` and `robots.txt` for you. These tell search engines what pages exist.
 
 **Verify they exist:**
 
-- Visit `https://your-site.com/sitemap.xml` – Should show an XML list of pages
+- Visit `https://your-site.com/sitemap-08-26.xml` – Should show an XML list of pages
 - Visit `https://your-site.com/robots.txt` – Should show instructions for search engines
 
 If they're missing:
@@ -473,7 +473,7 @@ Before considering your site "SEO optimized":
 **Basic Setup:**
 
 - [ ] `_config.yml` has `title`, `description`, `author`, `url`
-- [ ] Sitemap accessible at `/sitemap.xml`
+- [ ] Sitemap accessible at `/sitemap-08-26.xml`
 - [ ] `robots.txt` accessible at `/robots.txt`
 - [ ] Mobile-friendly (test on phone)
 
