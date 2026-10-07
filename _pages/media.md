@@ -36,7 +36,7 @@ Selected interviews, public talks, and written contributions.
     {% if item.youtube_id %}
       <div class="ratio ratio-16x9 my-4">
         <iframe
-          src="https://www.youtube-nocookie.com/embed/{{ item.youtube_id }}"
+          src="https://www.youtube-nocookie.com/embed/{{ item.youtube_id }}{% if item.youtube_start %}?start={{ item.youtube_start }}{% endif %}"
           title="{{ item.title }}"
           loading="lazy"
           referrerpolicy="strict-origin-when-cross-origin"

@@ -1,5 +1,27 @@
 # `sort_date` controls the shared Research/Media chronology on the home page.
 
+- title: "Sécurité sociale de l’alimentation : de l’expérimentation à la décision politique"
+  outlet: Association JNE
+  date: October 2026
+  sort_date: 2026-10-03
+  format: Panel discussion
+  image: /assets/img/media_preview/jne_ssa_table_ronde.jpg
+  description: Discussion on the political and economic pathways for food social security in France, with Marie Massart, Benjamin Coriat, Daniel Lenoir, and Éric Coquerel. The recording starts at Adam Poupard’s contribution (1:43:00).
+  url: https://www.youtube.com/watch?v=2YOcpI6zBkE&t=6180s
+  link_label: Watch the discussion from 1:43:00
+  youtube_id: 2YOcpI6zBkE
+  youtube_start: 6180
+
+- title: "Relire la théorie de la régulation à l’heure des crises écologiques, sociales et géopolitiques"
+  outlet: La Jaune et la Rouge
+  date: October 2026
+  sort_date: 2026-10-01
+  format: Written contribution
+  image: /assets/img/media_preview/jaune_rouge_regulation.jpg
+  description: Article co-authored with Côme de Chefdebien-Zagarrida on regulation theory and its relevance to contemporary ecological, social, and geopolitical crises.
+  url: https://www.lajauneetlarouge.com/relire-la-theorie-de-la-regulation-a-lheure-des-crises-ecologiques-sociales-et-geopolitiques/
+  link_label: Read the article
+
 - title: "Le seul recyclage que vous aurez sera la guerre"
   outlet: Contretemps
   date: July 2026
