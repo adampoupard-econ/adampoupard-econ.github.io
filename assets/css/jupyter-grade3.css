@@ -486,6 +486,13 @@ hr {
   z-index: 10;
 }
 
+audio {
+  display: inline;
+  vertical-align: middle;
+  align-content: center;
+  margin-left: 20%;
+}
+
 
 .MathJax {
   border: 0 !important;
