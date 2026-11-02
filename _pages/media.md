@@ -46,6 +46,13 @@ Selected interviews, public talks, and written contributions.
       </div>
     {% endif %}
 
+    {% if item.audio_url %}
+      <audio controls preload="none" class="w-100" aria-label="{{ item.title | escape }}">
+        <source src="{{ item.audio_url }}" type="audio/mpeg">
+        <a href="{{ item.audio_url }}">{{ item.link_label | default: "Listen to the audio" }}</a>
+      </audio>
+    {% endif %}
+
   </div>
 </div>
 

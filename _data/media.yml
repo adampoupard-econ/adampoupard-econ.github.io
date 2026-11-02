@@ -1,5 +1,15 @@
 # `sort_date` controls the shared Research/Media chronology on the home page.
 
+- title: Le Mouvement Perpétuel, émission de la CNT RP sur la Sécurité Sociale de l'Alimentation
+  outlet: Radio Libertaire
+  date: 27 octobre 2026
+  sort_date: 2026-10-27
+  format: Radio
+  description: Discussion autour de la Sécurité Sociale de l'Alimentation avec Kevin, auteur avec Laura de "Régime Général" et Dominique, expérimentatrice de la CAS20, caisse de SSA du 20e arrondissement.
+  url: https://www.anarchiste.info/radio/libertaire/podcast/mp3/RL-2026-10-27-20-30.mp3
+  link_label: Écouter le podcast
+  audio_url: https://www.anarchiste.info/radio/libertaire/podcast/mp3/RL-2026-10-27-20-30.mp3
+
 - title: "Sécurité sociale de l’alimentation : de l’expérimentation à la décision politique"
   outlet: Association JNE
   date: October 2026
